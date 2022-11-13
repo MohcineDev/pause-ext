@@ -1,0 +1,11 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    background: #fff;
+    padding: 5px 1rem;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    cursor: pointer;   
+}
